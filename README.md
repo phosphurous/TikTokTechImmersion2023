@@ -12,3 +12,8 @@ This is a done up for backend assignment of 2023 TikTok Tech Immersion.
 5. docker-compose.yml
 
 # POSTMAN to test backend API
+
+
+** If application does not work,
+ > go work init ./rpc-server
+and add ./http-server into the 'use ()'
